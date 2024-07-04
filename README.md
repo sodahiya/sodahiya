@@ -1,4 +1,4 @@
-![masterhead](https://github.com/sodahiya/sodahiya/assets/30335636/930d4df7-6199-4407-a102-f89086432070)
+![masterhead](https://github.com/sodahiya/sodahiya/assets/30335636/930d4df7-6199-4407-a102-f89086432070)(https://github.com/sodahiya)
 
 <h1><img src= "https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> Hey there!</h1>
 
