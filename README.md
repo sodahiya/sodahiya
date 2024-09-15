@@ -56,5 +56,5 @@
 <a href="https://archlinux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40" /></a>
 </p>
 <P>
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodahiya&layout=compact&theme=buefy&hide_border=true" /></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodahiya&layout=donut-vertical&theme=buefy&hide_border=true" /></a>
 </P>
