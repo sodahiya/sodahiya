@@ -55,7 +55,6 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://archlinux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40" /></a>
+<a href="https://leetcode.com/u/Sodahiya/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/09e5866c-b099-4878-a2a1-4154b2b0a200" alt="2026-01" width="40" height="40"></a>
+<a href="https://leetcode.com/u/Sodahiya/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7ed3df04-c749-4e5d-9b9b-96c77a744cad" alt="2026-02" width="40" height="40"></a>
 </p>
-<P align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodahiya&layout=donut-vertical&theme=light&hide_border=true" /></a>
-</P>
