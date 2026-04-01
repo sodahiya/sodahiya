@@ -57,5 +57,6 @@
 <a href="https://archlinux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40" /></a>
 <a href="https://leetcode.com/u/Sodahiya/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/09e5866c-b099-4878-a2a1-4154b2b0a200" alt="2026-01" width="40" height="40"></a>
 <a href="https://leetcode.com/u/Sodahiya/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7ed3df04-c749-4e5d-9b9b-96c77a744cad" alt="2026-02" width="40" height="40"></a>
-<a href="https://leetcode.com/u/Sodahiya/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/103142f4-1eb5-437a-a3f9-8913682b6a84" alt="2026-03" width="40" height="40"></a>
+<a href="https://leetcode.com/u/Sodahiya/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0bf69100-c1d6-42ef-b989-10b20920aba9" alt="2026-03" width="40" height="40"></a>
+
 </p>
